@@ -6,10 +6,10 @@ Nice to meet you, I'm a 1st year college student who aspire to becoma either any
 - UI/UX Designer ✨<br>
 
 <h2>About Me</h2>
-- 🚀 I'm very interested on Technology and Design particularly on: <b>Graphic Design, UI/UX Design, & Web Dev</b>
-- 🌱 I’m currently learning Web Development and enhancing my skills on designing.
-- ✊ I want to be better in what I do and I enjoy learning new things
-- 🎮 Other things I like: <b>Playing Online Games, Anime, Sleeping, Music, Movie marathon, Roadtrips & Food</b>
+- 🚀 I'm very interested on Technology and Design particularly on: <b>Graphic Design, UI/UX Design, & Web Dev</b><br>
+- 🌱 I’m currently learning Web Development and enhancing my skills on designing.<br>
+- ✊ I want to be better in what I do and I enjoy learning new things<br>
+- 🎮 Other things I like: <b>Playing Online Games, Anime, Sleeping, Music, Movie marathon, Roadtrips & Food</b><br>
 - 📫 Send me an email: <b>marv.monreal090@gmail.com</b> or <b>marvin.monreal@evsu.edu.ph</b><br>
 
 <h2>Tech Stack:</h2>
