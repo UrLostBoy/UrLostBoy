@@ -10,6 +10,7 @@
   <img align="right" alt="Vin Monreal - Facebook" width="22px" src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width: 100%;">
 </a>
 
+
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif"><img src="https://github.com/chiraag-kakar/chiraag-kakar/raw/master/hadder.gif" width="280px" style="max-width: 100%;"></a>
 
 
@@ -40,16 +41,25 @@ Nice to meet you, I'm a 1st year college student who aspire to become either any
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/63eb87da14286d8e127a2e1d228260dd09ffd495c55e22e4abc13960d9db3116/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d3139423246313f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d303030303030"><img src="https://camo.githubusercontent.com/63eb87da14286d8e127a2e1d228260dd09ffd495c55e22e4abc13960d9db3116/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6669676d612d3139423246313f7374796c653d666f722d7468652d6261646765266c6f676f3d6669676d61266c6f676f436f6c6f723d303030303030" data-canonical-src="https://img.shields.io/badge/figma-19B2F1?style=for-the-badge&amp;logo=figma&amp;logoColor=000000" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/42ada9cc774b9d2b4cf35691820a881d70657ae42c3a074f00c7e9add6352361/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f5f436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" alt="VS Code" data-canonical-src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" style="max-width: 100%;"></a>
 <a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/2e7f37ad51ff5e491aff103a0a0c4093208cbbf0278b9c58fa8b0e05e335a90d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f2d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/2e7f37ad51ff5e491aff103a0a0c4093208cbbf0278b9c58fa8b0e05e335a90d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c5f53747564696f2d3543324439313f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f266c6f676f436f6c6f723d7768697465" alt="VS" data-canonical-src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&amp;logo=visual%20studio&amp;logoColor=white" style="max-width: 100%;"></a>
-<a target="_blank" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6aea43d076c7bf00489f1b347caa33fe5c4d84a8af2983804f8702632f2669ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/6aea43d076c7bf00489f1b347caa33fe5c4d84a8af2983804f8702632f2669ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="Github" data-canonical-src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
+<a target="https://www.adobe.com/sea/products/photoshop.html" rel="noopener noreferrer" href="https://camo.githubusercontent.com/6aea43d076c7bf00489f1b347caa33fe5c4d84a8af2983804f8702632f2669ec/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622532302d2532333132313031312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&amp;style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;"></a>
 
 <h2>📈 Statistics:</h2>
-<p align="left" dir="auto">
-  <a href="https://github.com/UrLostBoy" rel="nofollow">
-  <img width="49.5%" src="https://camo.githubusercontent.com/4a8d9bbc4a5651d9cb5206fdfd457455909c9242ea1c9b5da0d90db60c006cad/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616268696779616e74726970732673686f775f69636f6e733d74727565267468656d653d67727576626f7826686964655f626f726465723d74727565" data-canonical-src="https://github-readme-stats.vercel.app/api?username=UrLostBoy&show_icons=true&theme=radical" style="max-width: 100%;">
-    <img width="49.5%" src="https://camo.githubusercontent.com/cc395b8dfe0146c9af7b64a7f2eedbb3f8e9e6ab3f9171f194d670a61eea5b32/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d616268696779616e7472697073267468656d653d67727576626f7826686964655f626f726465723d74727565" data-canonical-src="https://github-readme-streak-stats.herokuapp.com/?user=UrLostBoy&amp;theme=github-dark&amp;hide_border=true" style="max-width: 100%;"> 
+<p dir="auto">
+  <div align="center" dir="auto">
+  <a target="https://github.com/UrLostBoy" rel="noopener noreferrer">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=UrLostBoy&amp;show_icons=true&amp;locale=en&amp;theme=merko&amp;layout=compact" style="max-width: 100%;">
   </a>
 </p>
-
-
+<p align="left" dir="auto">
+  <a href="https://github.com/UrLostBoy" rel="nofollow">
+    <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=UrLostBoy&amp;show_icons=true&amp;theme=merko&amp;hide_border=true" style="max-width: 100%;">
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=UrLostBoy&amp;show_icons=true&amp;theme=merko&amp;hide_border=true" style="max-width: 100%;">
+  </a>
+</p>
+<p dir="auto">
+  <a href="https://github.com/UrLostBoy" rel="nofollow">
+    <img src="https://activity-graph.herokuapp.com/graph?username=UrLostBoy&amp;custom_title=UrLostBoy's%20Contribution%20Graph&amp;show_icons=true&amp;theme=react-dark&amp;hide_border=true&amp" style="max-width: 100%;">
+  </a>
+</p>
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg"><img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/raw/master/marquee.svg" style="max-width: 100%;"></a>
