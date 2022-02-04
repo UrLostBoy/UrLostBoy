@@ -9,6 +9,8 @@
 <a href="https://www.facebook.com/markvinz.pocson/" rel="nofollow">
   <img align="right" alt="Vin Monreal - Facebook" width="22px" src="https://camo.githubusercontent.com/013ab4b8c0a14af1d626b6106c10a4ca83129f9b89d063db25612dcb88740bc5/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f66616365626f6f6b2e737667" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" style="max-width: 100%;">
 </a>
+<a href="https://www.linkedin.com/in/marvin-monreal-33aab9230/" rel="nofollow">
+  <img align="right" alt="Vin Monreal - LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Vin Monreal - LinkedIn" style="max-width: 100%;"></a>
 
 
 <a target="_blank" rel="noopener noreferrer" href="https://github.com/chiraag-kakar/chiraag-kakar/blob/master/hadder.gif"><img src="https://github.com/chiraag-kakar/chiraag-kakar/raw/master/hadder.gif" width="280px" style="max-width: 100%;"></a>
